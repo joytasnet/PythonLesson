@@ -3,6 +3,6 @@
 ユーザーの入力に応じたn角形の描画を亀ちゃんにお願いしましょう。
 ### 実行例
 亀ちゃんに何角形を描いてもらう?(3以上の半角整数)>>5  
-![penta](https://user-images.githubusercontent.com/74003343/107146520-417d4a00-698c-11eb-9991-168d3a35ab31.png)
-亀ちゃんに何角形を描いてもらう?(3以上の半角整数)>>6
+![penta](https://user-images.githubusercontent.com/74003343/107146520-417d4a00-698c-11eb-9991-168d3a35ab31.png)  
+亀ちゃんに何角形を描いてもらう?(3以上の半角整数)>>6  
 ![hexa](https://user-images.githubusercontent.com/74003343/107146417-691fe280-698b-11eb-8cd5-1e440aaf5570.png)
