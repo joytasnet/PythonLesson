@@ -6,4 +6,7 @@
 ![penta](https://user-images.githubusercontent.com/74003343/107146520-417d4a00-698c-11eb-9991-168d3a35ab31.png)  
 亀ちゃんに何角形を描いてもらう?(3以上の半角整数)>>6  
 ![hexa](https://user-images.githubusercontent.com/74003343/107146417-691fe280-698b-11eb-8cd5-1e440aaf5570.png)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 537761f29ed127dd9a2b89b26ab271d37ca4881c
